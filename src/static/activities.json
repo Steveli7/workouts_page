@@ -388,5 +388,20 @@
 "average_speed": 2.2388020297736517,
 "source": "Garmin Connect",
 "streak": 2
+},
+{
+"run_id": 1676694493000,
+"name": "\u65b0\u754c \u5f92\u6b65",
+"distance": 8986.51217625368,
+"moving_time": "3:14:28",
+"type": "Hike",
+"start_date": "2023-02-18 04:28:13",
+"start_date_local": "2023-02-18 12:28:13",
+"location_country": "\u9cf3\u51f0\u5f91\u7b2c2\u6bb5 Lantau Trail Section 2, \u9280\u7926\u7063 Silvermine Bay, \u6885\u7aa9 Mui Wo, \u96e2\u5cf6\u5340 Islands District, \u65b0\u754c New Territories, \u9999\u6e2f Hong Kong, \u4e2d\u56fd",
+"summary_polyline": "cmxfCaqmvTgAqEm@g@AiAu@_ANWOToAu@]JKg@kAg@s@aEZ}@\\D}EmFb@uEsAoBU@`@vA_@mC{AyC[aEDWb@LJXsFwB_BOgBwCJwAuBv@c@`AIoBq@MMiAsAg@[o@s@x@AfAaAtCoAf@Uj@a@k@Z}Bc@uBH{DiAeEOwCm@mA`@wBiAeEFsCm@kAg@@j@g@SaBRMm@TyCeBy@CI}@iAWWe@JcBwCiC]aDHkDcA}CRsEb@eAMaBeBq@e@_A_AQkGqFyG@oD~BeDE}@i@mE[oBmBKsAiBa@kBlBgCz@oAEk@v@yAIsA`AmG^kA|AaBOsAhB{A`@s@hA{EpBw@xBqCn@VbAeB|EJfC]zBcC~@_AjC}AhAqJUm@~@?pC_Ar@aFU{CfA{CCwE|EcB`@cEQMjAgB`DDzEg@bFa@JXv@m@hAHhEe@~@@`ByBfB_BPXl@yBrIhAxBOjAg@^jDzEf@jBe@dCeAh@WzAf@lDUrDp@d@{AdJm@l@?d@`BL~BhAC[",
+"average_heartrate": 122.0,
+"average_speed": 0.7701844511701817,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
