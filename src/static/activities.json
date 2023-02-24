@@ -433,5 +433,20 @@
 "average_speed": 2.063384649905294,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1677152249000,
+"name": "W01D3-Steady Run",
+"distance": 8191.109871903108,
+"moving_time": "1:01:06",
+"type": "Run",
+"start_date": "2023-02-23 11:37:29",
+"start_date_local": "2023-02-23 19:37:29",
+"location_country": "\u65b9\u4e4b\u821f, \u91d1\u79d1\u8def, \u6d77\u6ee8\u793e\u533a, \u65b0\u5b89\u8857\u9053, \u5b9d\u5b89\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd",
+"summary_polyline": "k{thCek~uTre@af@iBsGUaEmAkF[oFN_A[{@XeJSoEmBu@oL?g@pQrA`@nNLToHQ{GmBs@qL?i@pQl@`@pOHZiKQ}DeBu@}KOg@X_@bQvAd@hNFX{HMeGiBu@kLKc@r@W~Oj@d@fPVF`Dd@dBeBhE|BuDi@KJhA~@dFBhBrBjJcXzWqG|HqAv@",
+"average_heartrate": 145.0,
+"average_speed": 2.234345300573679,
+"source": "Garmin Connect",
+"streak": 2
 }
 ]
