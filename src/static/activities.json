@@ -463,5 +463,20 @@
 "average_speed": 2.0741550943679408,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1677592439000,
+"name": "\u6df1\u5733\u5e02 - W02D2-Easy Run",
+"distance": 4000.873696559884,
+"moving_time": "0:32:41",
+"type": "Run",
+"start_date": "2023-02-28 13:53:59",
+"start_date_local": "2023-02-28 21:53:59",
+"location_country": "\u5047\u65e5\u540d\u5c45, \u91d1\u79d1\u8def, \u6d77\u6ee8\u793e\u533a, \u65b0\u5b89\u8857\u9053, \u5b9d\u5b89\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd",
+"summary_polyline": "a|thCyc~uT_Bd@a@x@d@zAvAHlDmChCkD~@EBs@qAo@k@HwCdEgE`A[r@`@hA~AVvAw@ZaAfCmBb@cAvA]Im@kAs@oAZ_CxDqCXcAbACv@l@n@lALnAg@`F_GxA_@@_@}@s@iBB{B|DyCP{@|@IlAl@z@hAAlAk@bF}FrAUu@sAs@Qg@VoBrDsAl@{BC]b@Q~@\\fAdB?x@c@lFeGtAY}@qAwBV{@tB\\bA~BiBnAWk@kAwAG",
+"average_heartrate": 144.0,
+"average_speed": 2.04022116091784,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
